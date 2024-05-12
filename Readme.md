@@ -28,7 +28,6 @@ In depth, this tool will do the following task:
 
 
 Once haggling is done, It will go back to a slower paced mode where screenshots are taken less frequently.
-
 It will resume automatically if it detect the haggling mini-game.
 
 ## Why:
@@ -43,47 +42,3 @@ This project was made with 2 specific purpose in mind:
     - Image analysis, 
     - Automation of task,
     - Keeping code documentation.
-
-## What's my background:
-
-I was an electrician, specialized in electrical repair.
-
-**In coding?** Basically nothing.
-
-I have learned by myself before but I wasn't dedicated in it in the past.
-
-I learn most of my coding knowledge at my apprenticeship, like C#, HTML/CSS and a tiny bit of Java.
-
-But nothing outisde basic understanding and application and small project for school.
-
-My first actual experience is when I've learn lua for a ComputerCraft project.
-
-**In IT?** I've learn plenty different subject:
-+ How coding work,
-+ How Windows work,
-+ How linux work,
-+ Installation of a wide variety of machine,
-+ Custom PC build,
-+ Customer support,
-+ Custom install of OS depending on needs of client,
-+ Networking,
-+ Virtualization,
-+ Video-conference
-
-I also started to learn how **Reverse Engineering** work. (My beloved)
-+ Learned how to reverse basic stuff,
-+ Learned IDA and static analysis,
-+ Started modding small game (Pokemon and Rom Hack of Pokemon),
-+ Started doing crackmes (level 1),
-+ Started looking for more challenging crackmes (level 2),
-+ Started doing medium modding on game,
-+ Learned WinDBG, cutter and x64dbg (stayed with x64dbg),
-+ Learned dynamic analysis,
-+ Learned Assembly (Yes, it took me this long before learning it),
-+ Learned patching bynaries,
-+ Learned bypass of functions,
-    
-
-I was an IT scientist apprentice.
-
-Then I took an arrow in the knee.
