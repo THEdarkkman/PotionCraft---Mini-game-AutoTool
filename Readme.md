@@ -1,11 +1,9 @@
--------------------------------
 ## Description:
 
 Hi
 I created this tool to help with the mini-game of Haggling in Potion Craft.
 This tool will automaticaly determine when to press the haggling button during the mini-game.
 
--------------------------------
 ## Current State of the code:
 
 I will keep this readme updated with the progression of the code.
@@ -16,7 +14,6 @@ I am working on:
     Initial commit,
     Learning.
 
--------------------------------
 ## What this tool does:
 
 In depth, this tool will do the following task:
@@ -30,7 +27,6 @@ In depth, this tool will do the following task:
 Once haggling is done, It will go back to a slower paced mode where screenshots are taken less frequently.
 It will resume automatically if it detect the haggling mini-game.
 
--------------------------------
 ## Why:
 
 This project was made with 2 specific purpose in mind:
@@ -44,7 +40,6 @@ This project was made with 2 specific purpose in mind:
     Automation of task,
     Keeping code documentation.
 
--------------------------------
 ## What's my background:
 
 I was an electrician, specialized in electrical repair.
