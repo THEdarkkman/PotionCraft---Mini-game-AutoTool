@@ -7,8 +7,10 @@ This tool will automaticaly determine when to press the haggling button during t
 ## Current State of the code:
 
 I will keep this readme updated with the progression of the code.
+
 This code is at: 
 + 0%
+
 I am working on:
 + Code structure and initial organization,
 + Initial commit,
@@ -24,7 +26,9 @@ In depth, this tool will do the following task:
 + Analyse screenshots to find zones and cursor position.
 + Move mouse cursor to the haggling button and press if the mini-game cursor is inside a zone.
 
+
 Once haggling is done, It will go back to a slower paced mode where screenshots are taken less frequently.
+
 It will resume automatically if it detect the haggling mini-game.
 
 ## Why:
@@ -45,9 +49,13 @@ This project was made with 2 specific purpose in mind:
 I was an electrician, specialized in electrical repair.
 
 **In coding?** Basically nothing.
+
 I have learned by myself before but I wasn't dedicated in it in the past.
+
 I learn most of my coding knowledge at my apprenticeship, like C#, HTML/CSS and a tiny bit of Java.
+
 But nothing outisde basic understanding and application and small project for school.
+
 My first actual experience is when I've learn lua for a ComputerCraft project.
 
 **In IT?** I've learn plenty different subject:
@@ -77,4 +85,5 @@ I also started to learn how **Reverse Engineering** work. (My beloved)
     
 
 I was an IT scientist apprentice.
+
 Then I took an arrow in the knee.
