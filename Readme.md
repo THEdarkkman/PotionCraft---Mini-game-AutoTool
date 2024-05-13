@@ -1,6 +1,6 @@
 ## Description:
 
-Hi
+Hi,
 I created this tool to help with the mini-game of Haggling in Potion Craft.
 This tool will automaticaly determine when to press the haggling button during the mini-game.
 

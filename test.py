@@ -1,10 +1,10 @@
 # This file is not meant to be used but rather for testing.
 print("\nThis file is not meant to be used")
-print("But for testing")
 
 # Import of library
 import pyautogui
 import time     # This is used for benchmark the code
+import cv2
 
 # Function
 
@@ -25,7 +25,7 @@ screenWidth, screenHeight = pyautogui.size()
 currentMouseX, currentMouseY = pyautogui.position()
 
 # Move mouse to new position.
-pyautogui.moveTo(100, 50)
+#pyautogui.moveTo(100, 50)
 
 # Move mouse to new position based on image
 # If the image the app compare to isn't exact it will throw an error
@@ -39,8 +39,8 @@ pyautogui.moveTo(100, 50)
 #pyautogui.alert("This is the display message")
 
 # Printing to terminal.
-print("Screen width:", screenWidth)
-print("Screen height:", screenHeight)
-print("Mouse X pos:", currentMouseX)
-print("Mouse Y pos:", currentMouseY)
+#print("Screen width:", screenWidth)
+#print("Screen height:", screenHeight)
+#print("Mouse X pos:", currentMouseX)
+#print("Mouse Y pos:", currentMouseY)
 print() # Last print, to prevent terminal clutter and improve readability.
