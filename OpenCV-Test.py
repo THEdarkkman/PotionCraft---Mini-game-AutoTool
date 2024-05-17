@@ -1,4 +1,5 @@
 # OpenCV
+import OpenCV
 #Load an image using fileName, -1 ignore transparency, 0 load in grayscale, 1 load image as is
 #img = cv2.imread("img/leftHand.png", -1)
 #img = cv2.resize(img, (0, 0), fx=2, fy=2)
