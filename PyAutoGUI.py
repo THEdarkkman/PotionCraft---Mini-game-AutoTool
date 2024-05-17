@@ -4,7 +4,6 @@ print("\nThis file is not meant to be used")
 # Import of library
 import pyautogui
 import time     # This is used for benchmark the code
-import cv2
 
 # Function
 
