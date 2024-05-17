@@ -2,6 +2,14 @@
 import pyautogui
 import time
 
+#   TODO:
+#   - Testing mapping 1 pixel large screenchot to find the corresponding color, map cursor and compare.
+#       - Done with PyAutoGUIn for fast screenshot processing and ease of use
+#   - Using PyAutoGUI for automatically find the correct position for different resolution.
+#   - Creation of an AI model and train to recognise zone.
+#       - Might be to heavy for purpose of this tool.
+    
+
 # Disable failsafe for faster code, remove the 0.1s delay after each pyautogui function
 pyautogui.FAILSAFE= False
 
