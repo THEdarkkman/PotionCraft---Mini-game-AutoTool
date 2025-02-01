@@ -33,7 +33,7 @@ It will resume automatically if it detect the haggling mini-game.
 ## Why:
 
 This project was made with 2 specific purpose in mind:
-1.  - Do the "Very Hard" mini-game in you stead.
+1.  - Do the "Very Hard" mini-game in your stead.
     - Because why not? 
     - And the last mini-game is actually hard late at night which is when I play the most.
 
